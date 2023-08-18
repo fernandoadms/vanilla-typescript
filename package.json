@@ -1,0 +1,8 @@
+{
+  "name": "vanilla-typescript",
+  "version": "1.0.0",
+  "description": "Dynamic web app with JS and TS",
+  "main": "index.js",
+  "author": "Fernando Alves",
+  "license": "MIT"
+}
